@@ -1,1 +1,2 @@
-- This project is a template
+- Run `npm i` to install dependencies
+- Run `npm test` to check the repository tests
